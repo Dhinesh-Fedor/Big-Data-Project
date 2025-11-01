@@ -99,16 +99,16 @@ Using daily data from October 2025, both trained models provided a forward-looki
 * **LSTM Prediction:** **Bullish** (Raw Output: 0.729)
 * **TCN Prediction:** **Bullish** (Raw Output: 0.775)
 
-├── Model.ipynb               # Main notebook: PySpark + LSTM
-├── Model_2.ipynb             # Main notebook: PySpark + TCN
-├── Comparison.ipynb          # Notebook for PySpark vs. Pandas timing comparison
-├── itc_tcn_model_normal.ipynb # Notebook for Pandas-only TCN model
-├── Dataset/
-│   └── ITC_minute.csv        # (Required for local Pandas run)
-├── itc_lstm_model.keras      # Saved LSTM model (from Spark)
-├── scaler.pkl                # Saved scaler (from Spark LSTM)
-├── itc_tcn_model.keras       # Saved TCN model (from Spark)
-├── scaler_tcn.pkl            # Saved scaler (from Spark TCN)
-├── itc_tcn_normal.keras      # Saved TCN model (from Pandas)
-├── scaler_tcn_normal.pkl     # Saved scaler (from Pandas TCN)
-└── README.md
+    ├── Model.ipynb               # Main notebook: PySpark + LSTM
+    ├── Model_2.ipynb             # Main notebook: PySpark + TCN
+    ├── Comparison.ipynb          # Notebook for PySpark vs. Pandas timing comparison
+    ├── itc_tcn_model_normal.ipynb # Notebook for Pandas-only TCN model
+    ├── Dataset/
+    │   └── ITC_minute.csv        # (Required for local Pandas run)
+    ├── itc_lstm_model.keras      # Saved LSTM model (from Spark)
+    ├── scaler.pkl                # Saved scaler (from Spark LSTM)
+    ├── itc_tcn_model.keras       # Saved TCN model (from Spark)
+    ├── scaler_tcn.pkl            # Saved scaler (from Spark TCN)
+    ├── itc_tcn_normal.keras      # Saved TCN model (from Pandas)
+    ├── scaler_tcn_normal.pkl     # Saved scaler (from Pandas TCN)
+    └── README.md
