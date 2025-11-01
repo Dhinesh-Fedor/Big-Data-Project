@@ -72,11 +72,15 @@ A convolutional architecture adapted for time-series data, often outperforming R
 Both models were highly effective at learning the minute-level price trends and volatility from the test set.
 
 **LSTM Prediction:**
-<img width="588" height="455" alt="image" src="https://github.com/user-attachments/assets/a99056dd-012a-4d22-8cd8-9aac1c4af98c" />
+
+
+   <img width="588" height="455" alt="image" src="https://github.com/user-attachments/assets/a99056dd-012a-4d22-8cd8-9aac1c4af98c" />
 
 
 **TCN Prediction:**
-<img width="588" height="455" alt="image" src="https://github.com/user-attachments/assets/2b685109-c165-4792-8418-e9a2b132090c" />
+
+
+   <img width="588" height="455" alt="image" src="https://github.com/user-attachments/assets/2b685109-c165-4792-8418-e9a2b132090c" />
 
 
 ### Big Data Pipeline Performance Comparison
