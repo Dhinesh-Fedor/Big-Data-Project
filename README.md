@@ -98,8 +98,3 @@ Using daily data from October 2025, both trained models provided a forward-looki
 
 * **LSTM Prediction:** **Bullish** (Raw Output: 0.729)
 * **TCN Prediction:** **Bullish** (Raw Output: 0.775)
-Clone the repository and install the required packages:
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-pip install -r requirements.txt
