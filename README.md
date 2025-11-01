@@ -23,7 +23,7 @@ This project implements and compares two deep learning models (LSTM and TCN) for
     * **Symbol:** `ITC.BSE`
     * **Usage:** Used to fetch the latest 60 days of data for a "live" trend prediction.
 
-## ⚙️ Methodology & Pipeline
+## Methodology & Pipeline
 
 The project follows these main steps:
 
